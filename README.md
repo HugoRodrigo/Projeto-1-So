@@ -14,6 +14,7 @@ Possiveis comandos:
   -sl: lista todos os arquivos do diretorio selecionado e suas informações.
     ex: "ls" lista os arquivos do diretorio selecionado.
         "ls c:/" lista os arquivos de c:.
+        
   -grep: procura em um arquivo de texto do diretorio atual linhas que contem a sentença seleciona e mostra a linha.
     ex: "grep palavra texto.txt" procura palavra no arquivo texto.txt e mostra a linha inteira.
     
