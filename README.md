@@ -36,5 +36,6 @@
     
   - obs: pode ser usado multiplos comandos ao mesmo tempo separando-os por virgula.
     * ex:
-      - "cat texto.txt, grep palavra texto.txt, quit"
-   
+      - "cat texto.txt, grep palavra texto.txt, quit".
+  
+   ###### Esse codigo foi compilado no win 10 usando o dev c++, não foi testado no linux por falta de disponibilide.
