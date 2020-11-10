@@ -1,4 +1,4 @@
 all:
-	gcc sourcecode.c -o shell
+	gcc sourcefile.c -o shell
 clean:
 	rm *.o
