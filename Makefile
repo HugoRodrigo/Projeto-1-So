@@ -1,4 +1,6 @@
-all:
-	gcc sourcefile.c -o shell
+all: sourcefile.c
+	gcc -o shell sourcefile.c
+	./sourcefile
+	
 clean:
-	rm *.o
+	$(RM) shell
